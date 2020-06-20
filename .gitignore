@@ -1,0 +1,43 @@
+# Project exclude paths
+/.gradle/
+/Problems/Boys in a sport class/out/
+/Problems/Boys in a sport class/out/production/classes/
+/Problems/Cats are robots/out/
+/Problems/Cats are robots/out/production/classes/
+/Problems/Check prefix ignoring the case/out/
+/Problems/Check prefix ignoring the case/out/production/classes/
+/Problems/Check the value/out/
+/Problems/Check the value/out/production/classes/
+/Problems/Comparing strings ignoring whitespaces/out/
+/Problems/Comparing strings ignoring whitespaces/out/production/classes/
+/Problems/Decrement all/out/
+/Problems/Decrement all/out/production/classes/
+/Problems/Difference of times/out/
+/Problems/Difference of times/out/production/classes/
+/Problems/Digits from 0 to 9 in a single line/out/
+/Problems/Digits from 0 to 9 in a single line/out/production/classes/
+/Problems/First digit/out/
+/Problems/First digit/out/production/classes/
+/Problems/Guest list of a hotel/out/
+/Problems/Guest list of a hotel/out/production/classes/
+/Problems/Hello!/out/
+/Problems/Hello!/out/production/classes/
+/Problems/Interval/out/
+/Problems/Interval/out/production/classes/
+/Problems/Is between/out/
+/Problems/Is between/out/production/classes/
+/Problems/Print strings in the reverse order/out/
+/Problems/Print strings in the reverse order/out/production/classes/
+/Problems/Printing a magic letter/out/
+/Problems/Printing a magic letter/out/production/classes/
+/Problems/Printing strings in the same order/out/
+/Problems/Printing strings in the same order/out/production/classes/
+/Problems/Replacing 'a' with 'b'/out/
+/Problems/Replacing 'a' with 'b'/out/production/classes/
+/Problems/Snail/out/
+/Problems/Snail/out/production/classes/
+/Problems/The result of a Tic-Tac-Toe game/out/
+/Problems/The result of a Tic-Tac-Toe game/out/production/classes/
+/Simple Chatty Bot/task/build/
+/Simple Chatty Bot/task/out/
+/Simple Chatty Bot/task/out/production/classes/
